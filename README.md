@@ -1,6 +1,6 @@
 # HackRF RF Generator
 A lightweight GUI-based RF signal generator for HackRF One using GNU Radio.
-The application provides a simple and oscilloscope-friendly interface for generating common RF modulation types directly from a PC using a HackRF One.
+The application provides a simple and interface for generating common RF modulation types directly from a PC using a HackRF One.
 Designed for RF experimentation, receiver testing, oscilloscope work, amateur radio testing, and general RF bench use.
 ---
 ## Features
